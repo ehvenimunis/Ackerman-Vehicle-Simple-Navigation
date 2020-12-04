@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/muhammed/Belgeler/ackerman_vehicle/build/gtest/gtest/src -lpthread -Wl,-rpath,/home/muhammed/Belgeler/ackerman_vehicle/build/gtest/gtest/src 

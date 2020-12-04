@@ -1,0 +1,2 @@
+ackermann_vehicle:ackermann_vehicle_description:ackermann_vehicle_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/muhammed/Belgeler/ackerman_vehicle/devel -DCMAKE_INSTALL_PREFIX=/home/muhammed/Belgeler/ackerman_vehicle/install -G Unix Makefiles
