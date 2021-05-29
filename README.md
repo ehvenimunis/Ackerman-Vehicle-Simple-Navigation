@@ -27,3 +27,6 @@ Install Additional Packages to Not Get Error:
 - sudo apt-get install ros-kinetic-gps-*
   
 Video : https://www.youtube.com/watch?v=rYdPb02pOVw
+
+### Author : Muhammed Salih Aydoğan
+
