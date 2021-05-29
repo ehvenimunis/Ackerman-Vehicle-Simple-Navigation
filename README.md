@@ -1,4 +1,5 @@
 # Akerman Driving Mobile Robot Modeling and Autonomous Navigation
+#### Author : Muhammed Salih Aydoğan
 
 In this study, a mobile robot with Akerman driving capability was designed and an algorithm was developed to complete the autonomous navigation task. In addition, the mobile robot was simulated in order to test the developed algorithm.
 
@@ -28,5 +29,5 @@ Install Additional Packages to Not Get Error:
   
 Video : https://www.youtube.com/watch?v=rYdPb02pOVw
 
-### Author : Muhammed Salih Aydoğan
+
 
